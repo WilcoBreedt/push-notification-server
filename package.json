@@ -1,6 +1,6 @@
 {
   "name": "notice-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Notification Provider Server",
   "main": "index.js",
   "scripts": {
